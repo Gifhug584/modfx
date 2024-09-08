@@ -1,0 +1,10 @@
+{
+    "logic_numb": 6578 ,
+    "lang":"us-en"
+    "resource":"Y"
+    "file":",sttd.toml"
+    "bit":"x86, arm"
+    {
+        "access":"boot.js"
+    }
+}
